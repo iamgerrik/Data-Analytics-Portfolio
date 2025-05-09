@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gerrik | Data Analytics Consultant  
 
-🔍 **About Me**  
+## 🔍 **About Me**  
 Certified Data Analytics Consultant with expertise in **Python, SQL, and Tableau**. Passionate about transforming raw data into actionable insights for startups, e-commerce, and beyond.
 With a background in fashion design and 5 years of retail experience, I bring a unique blend of **creative thinking** and **analytical rigor** to data analytics. My journey from visual design to data visualization allows me to craft insights that are both technically sound and visually compelling.
 
@@ -11,7 +11,7 @@ What defines my approach:
 - 🖌️ Combining my design sensibility with technical skills in Python, SQL, and Tableau
 - 🚀 Passionate about helping startups and e-commerce businesses make data-driven decisions
 
-🎓 **Certification**  
+## 🎓 **Certification**  
 [neuefische Bootcamp](neuefische-certification.pdf) (540h) | Python, SQL, Tableau, Statistics, Stakeholder Management  
 
 ---
