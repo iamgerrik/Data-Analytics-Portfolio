@@ -15,7 +15,7 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 | Category          | Tools & Technologies         |
 |-------------------|------------------------------|
 | **Programming**   | Python (Pandas, NumPy), SQL  |
-| **Visualization** | Tableau, Power BI, Matplotlib|
+| **Visualization** | Tableau, Matplotlib, Seaborn|
 | **Analytics**     | A/B Testing, Regression, K-Means |
 | **Workflow**      | Git, Agile, Stakeholder Management |
 
@@ -24,7 +24,7 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 ### 🛒 E-Commerce Performance Dashboard
 - **Tools**: Tableau, Python (Pandas), Figma
 - **Key Insights**: Optimized sales strategy by identifying top-performing product categories
-- [View Project](Business_Analytics/)
+- [View Project](Business_Analytics/images/E-Commerce Performance Dashboard.pdf)
 
 ### 🏥 Health Analysis: Smoking & Cancer
 - **Tools**: PostgreSQL, Python, Tableau  
@@ -38,4 +38,4 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ Email: your@email.com
+- ✉️ Let's connect
