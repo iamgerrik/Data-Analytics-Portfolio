@@ -1,5 +1,3 @@
-# Data-Analytics-Portfolio
-
 # 👋 Hi, I'm Gerrik | Data Analytics Consultant  
 
 ## 🔍 **About Me**  
