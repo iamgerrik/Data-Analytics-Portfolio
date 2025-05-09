@@ -10,8 +10,9 @@ What defines my approach:
 - 🚀 Passionate about helping startups and e-commerce businesses make data-driven decisions
 
 ## 🎓 **Certification**  
-[neuefische Bootcamp](docs/neuefische-certification.pdf) (540h) | Python, SQL, Tableau, Statistics, Stakeholder Management  
-
+| Certification | Skills Gained | 
+|--------------|---------------|
+| [Data Analytics @ neuefische](docs/neuefische-certification.pdf) | Python (Pandas, Matplotlib), SQL, Tableau, Statistical Analysis |
 ---
 
 ## 🛠 **Skills & Tools**  
