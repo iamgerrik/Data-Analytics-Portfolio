@@ -1,44 +1,41 @@
-# 👋 Hi, I'm Gerrik | Data Analytics Consultant  
+# Gerrik Boldemann | Data Analytics Consultant
 
-## 🔍 **About Me**  
-Certified Data Analytics Consultant with expertise in **Python, SQL, and Tableau**. Passionate about transforming raw data into actionable insights for startups, e-commerce, and beyond.
-With a background in fashion design and 5 years of retail experience, I bring a unique blend of **creative thinking** and **analytical rigor** to data analytics. My journey from visual design to data visualization allows me to craft insights that are both technically sound and visually compelling.
+## About Me
 
-What defines my approach:
-- 🎯 Bridging the gap between raw data and business strategy
-- 🖌️ Combining my design sensibility with technical skills in Python, SQL, and Tableau
-- 🚀 Passionate about helping startups and e-commerce businesses make data-driven decisions
+Data storyteller with a passion for transforming numbers into narratives. With a background in fashion design and 5 years of retail experience, I bridge **creative thinking** and **analytical rigor**. Certified Data Analytics Consultant (540h @ neuefische) skilled in Python, SQL, and Tableau.
 
-## 🎓 **Certification**  
-| Certification | Skills Gained | 
-|--------------|---------------|
-| [Data Analytics @ neuefische](docs/neuefische-certification.pdf) | Python (Pandas, Matplotlib), SQL, Tableau, Statistical Analysis |
----
+*"I don't just analyze data - I make it tell compelling stories that drive action."*
 
-## 🛠 **Skills & Tools**  
-- **Programming:** Python (Pandas, Matplotlib, Seaborn), SQL (PostgreSQL)  
-- **Data Visualization:** Tableau, Figma, Adobe 
-- **Analytics:** A/B Testing, Regression, K-Means Clustering  
-- **Collaboration:** Git, Agile Workflows, Stakeholder Communication  
+## 🏆 Certifications 
+[![Data Analytics Certification](https://img.shields.io/badge/View_Certificate-2ea44f)](docs/neuefische-certification.pdf)  
+✅ 540h Training @ neuefische | Python, SQL, Tableau, Statistics
 
----
+## Core Skills
 
-## 📂 **Projects**  
+| Category          | Tools & Technologies         |
+|-------------------|------------------------------|
+| **Programming**   | Python (Pandas, NumPy), SQL  |
+| **Visualization** | Tableau, Power BI, Matplotlib|
+| **Analytics**     | A/B Testing, Regression, K-Means |
+| **Workflow**      | Git, Agile, Stakeholder Management |
 
-### 🛒 [E-Commerce Performance Dashboard](Business_Analytics/)  
-- Built an interactive **Tableau dashboard** with custom Figma layouts.  
-- Analyzed sales data using **Python** (Pandas, Matplotlib, Seaborn).  
-- **Tools:** Tableau, Python, Figma  
+## Featured Projects
 
-### 🏥 [Health Analysis: Smoking & Cancer](Health_Analyse/)  
-- **Capstone Project** @ neuefische: Analyzed impact of smoking on cancer rates.  
-- **Tools:** PostgreSQL, Python, Tableau, Scikit-Learn 
+### 🛒 E-Commerce Performance Dashboard
+- **Tools**: Tableau, Python (Pandas), Figma
+- **Key Insights**: Optimized sales strategy by identifying top-performing product categories
+- [View Project](Business_Analytics/)
 
-### 🌿 [ACi Fit Curve Visualization](ACi_Fit_Kurve/)  
-- Collaborated on a biochemistry study: Visualized plant measurement curves in **Python** and enhanced graphics with **GIMP**.  
-- **Tools:** Python (Matplotlib), GIMP  
+### 🏥 Health Analysis: Smoking & Cancer
+- **Tools**: PostgreSQL, Python, Tableau  
+- **Methods**: Statistical correlation analysis  
+- [View Project](Health_Analyse/)  
 
----
+### 🌿 ACi Fit Curve Visualization
+- **Collaboration**: Biochemistry research project  
+- **Tools**: Python (Matplotlib), GIMP  
+- [View Project](ACi_Fit_Kurve/)  
 
-## 📫 **Let's Connect!**  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
+## Contact
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- ✉️ Email: your@email.com
