@@ -1,0 +1,10 @@
+# Ignoriere Python-Cache und temporäre Dateien
+__pycache__/
+*.pyc
+
+# Ignoriere Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignoriere große Datendateien (Beispiel)
+*.csv
+*.xlsx
