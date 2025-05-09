@@ -24,7 +24,7 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 ### 🛒 E-Commerce Performance Dashboard
 - **Tools**: Tableau, Python (Pandas), Figma
 - **Key Insights**: Optimized sales strategy by identifying top-performing product categories
-- [View Project](Business_Analytics/images/E-Commerce Performance Dashboard.pdf)
+- [View Project](Business_Analytics/)
 
 ### 🏥 Health Analysis: Smoking & Cancer
 - **Tools**: PostgreSQL, Python, Tableau  
