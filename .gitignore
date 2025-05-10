@@ -7,4 +7,4 @@ __pycache__/
 
 # Ignoriere große Datendateien (Beispiel)
 *.csv
-*.xlsx
+*.xlsx.DS_Store
