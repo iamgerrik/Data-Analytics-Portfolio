@@ -21,6 +21,11 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 
 ## Featured Projects
 
+### 📊 Social Media vs Mental Health Analysis  
+- **Tools**: Tableau, Python (Data Cleaning)  
+- **Key Insights**: Explored correlation between social media usage and mental health indicators across age groups  
+- [View Project](Data-Analytics-Portfolio/Students_Social_Media_Addiction_Analyse)  
+
 ### 🛒 E-Commerce Performance Dashboard
 - **Tools**: Tableau, Python (Pandas), Figma
 - **Key Insights**: Optimized sales strategy by identifying top-performing product categories
@@ -38,4 +43,3 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ Let's connect
