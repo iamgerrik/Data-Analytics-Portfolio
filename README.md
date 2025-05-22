@@ -43,3 +43,4 @@ Data storyteller with a passion for transforming numbers into narratives. With a
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/your-profile)
+- [Tableau Public](https://public.tableau.com/app/profile/gerrik.bold/vizzes)
